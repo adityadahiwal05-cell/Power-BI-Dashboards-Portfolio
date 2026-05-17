@@ -1,48 +1,62 @@
-# HR Analytics Dashboard
+# 📊 HR Analytics Dashboard
 
-## Overview
-Designed an interactive HR Analytics Dashboard in Power BI to analyze employee attrition, workforce demographics, salary trends, and job role performance.
+## 📌 Overview
+This project presents an interactive HR Analytics Dashboard developed using Power BI to analyze employee attrition, workforce demographics, salary trends, and job role performance.
 
-This dashboard helps HR teams identify workforce trends and make data-driven decisions for employee retention and performance management.
+The dashboard helps HR professionals and organizations make data-driven decisions for employee retention, workforce planning, and performance analysis.
 
 ---
 
-## Key Insights Covered
+## 🚀 Key Insights Covered
 - Employee Count & Attrition Analysis
 - Attrition Rate & Average Salary Tracking
 - Department-wise Workforce Insights
 - Attrition by Age, Education & Gender
 - Salary Slab Analysis
 - Job Role Performance Comparison
-- Years in Company Trend Analysis
+- Years at Company Trend Analysis
 
 ---
 
-## Tools & Skills Used
+## 🛠 Tools & Technologies Used
 - Power BI
 - DAX
+- Data Cleaning
 - Data Visualization
 - Dashboard Design
 - HR Analytics
 
 ---
 
-## Files Included
+## 📂 Files Included
+- Power BI Dashboard File (.pbix)
 - Dashboard PDF
 - Dataset Files
 - Background Assets
 
 ---
 
-## Purpose
-The objective of this project is to transform HR data into meaningful insights using interactive dashboards and analytical reporting techniques.
+## 🎯 Project Objective
+The main objective of this project is to convert raw HR data into meaningful business insights through interactive visualizations and analytical reporting.
+
+The dashboard enables HR teams to monitor employee trends, identify attrition patterns, and improve decision-making processes.
 
 ---
 
-## Credits
+## 📈 Features
+- Interactive Filters & Slicers
+- Dynamic Charts & KPIs
+- Employee Attrition Analysis
+- Department & Gender Insights
+- Salary Distribution Visualization
+- Workforce Trend Monitoring
+
+---
+
+## 🙏 Credits
 Special thanks and credit to Mr. Rishabh Mishra Sir (Sr. Data Analyst) for inspiration and learning resources shared through his YouTube channel.
 
 ---
 
-## Author
-Aditya Dahiwal
+## 👨‍💻 Author
+**Aditya Dahiwal**
