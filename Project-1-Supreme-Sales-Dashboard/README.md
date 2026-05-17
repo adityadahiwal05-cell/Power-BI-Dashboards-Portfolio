@@ -31,7 +31,7 @@ The dashboard provides clear business insights to track growth, optimize sales s
 ---
 
 ## Credits
-Special thanks and credit to Rishabh Mishra for guidance and dashboard inspiration through his YouTube content.
+Special thanks and credit to Mr.Rishabh Mishra Sir (Sr. Data Analyst) for guidance and dashboard inspiration through his YouTube content.
 
 ---
 
