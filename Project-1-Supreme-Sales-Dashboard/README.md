@@ -1,11 +1,13 @@
-# Supreme Sales Dashboard
+# 🛒 Supreme Sales Dashboard
 
-## Overview
+## 📌 Overview
 Created a dynamic Sales Analytics Dashboard in Power BI to monitor sales performance, profit trends, customer behavior, and payment insights across multiple categories and states.
+
+The dashboard helps businesses analyze performance metrics and make data-driven decisions for better growth and profitability.
 
 ---
 
-## Dashboard Highlights
+## 🚀 Dashboard Highlights
 - Sales Amount, Profit & Quantity KPIs
 - State-wise Sales Performance
 - Category-wise Quantity Analysis
@@ -16,7 +18,7 @@ Created a dynamic Sales Analytics Dashboard in Power BI to monitor sales perform
 
 ---
 
-## Tools & Skills Used
+## 🛠 Tools & Skills Used
 - Power BI
 - DAX
 - Data Modeling
@@ -25,15 +27,35 @@ Created a dynamic Sales Analytics Dashboard in Power BI to monitor sales perform
 
 ---
 
-## Purpose
-The dashboard provides clear business insights to track growth, optimize sales strategy, and improve decision-making.
+## 📂 Files Included
+- Power BI Dashboard File (.pbix)
+- Dashboard PDF
+- Dataset Files
+- Background Assets
 
 ---
 
-## Credits
-Special thanks and credit to Mr.Rishabh Mishra Sir (Sr. Data Analyst) for guidance and dashboard inspiration through his YouTube content.
+## 🎯 Purpose
+The objective of this project is to transform raw sales data into meaningful business insights through interactive dashboards and analytical reporting techniques.
+
+This dashboard helps track sales growth, identify profitable categories, understand customer behavior, and improve business decision-making.
 
 ---
 
-## Author
-Aditya Dahiwal
+## 📈 Features
+- Interactive Filters & Slicers
+- Dynamic KPI Cards
+- Monthly Sales & Profit Tracking
+- Region-wise Performance Analysis
+- Customer & Payment Insights
+- Product Category Comparison
+
+---
+
+## 🙏 Credits
+Special thanks and credit to Mr. Rishabh Mishra Sir (Sr. Data Analyst) for guidance and dashboard inspiration through his YouTube content.
+
+---
+
+## 👨‍💻 Author
+**Aditya Dahiwal**
