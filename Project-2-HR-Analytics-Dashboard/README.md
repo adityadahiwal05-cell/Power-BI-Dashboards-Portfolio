@@ -29,7 +29,6 @@ The dashboard helps HR professionals and organizations make data-driven decision
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)
 - Dashboard PDF
 - Dataset Files
 - Background Assets
