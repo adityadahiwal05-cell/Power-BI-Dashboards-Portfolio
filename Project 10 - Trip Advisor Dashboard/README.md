@@ -29,7 +29,6 @@ The dashboard helps businesses and travel platforms understand customer preferen
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)
 - Dashboard PDF
 - Dataset Files
 - Background Assets
