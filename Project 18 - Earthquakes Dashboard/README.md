@@ -29,7 +29,6 @@ The dashboard helps users explore earthquake data, monitor seismic patterns, and
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)
 - Dashboard PDF
 - Dataset Files
 - Background Assets
