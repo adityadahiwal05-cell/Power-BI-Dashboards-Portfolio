@@ -29,7 +29,6 @@ The dashboard helps users explore social interaction data, understand connection
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)
 - Dashboard PDF
 - Dataset Files
 - Background Assets
