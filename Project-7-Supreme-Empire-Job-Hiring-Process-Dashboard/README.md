@@ -29,7 +29,6 @@ The dashboard helps organizations streamline the hiring process, monitor recruit
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)
 - Dashboard PDF
 - Dataset Files
 - Background Assets
