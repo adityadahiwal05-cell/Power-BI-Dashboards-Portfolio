@@ -67,7 +67,7 @@ A business intelligence dashboard focused on KPI monitoring, operational perform
 ---
 
 ## 📂 Files Included
-- Dashboard PDFs
+- Dashboards PDF
 
 ---
 
