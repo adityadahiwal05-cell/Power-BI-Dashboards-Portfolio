@@ -29,7 +29,6 @@ The dashboard helps users explore worldwide happiness data, compare country perf
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)
 - Dashboard PDF
 - Dataset Files
 - Background Assets
