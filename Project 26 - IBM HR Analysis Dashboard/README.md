@@ -29,7 +29,6 @@ The dashboard helps HR teams and organizations monitor employee insights, improv
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)
 - Dashboard PDF
 - Dataset Files
 - Background Assets
