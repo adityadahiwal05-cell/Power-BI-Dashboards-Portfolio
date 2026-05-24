@@ -29,7 +29,6 @@ The dashboard helps users explore Airbnb market trends, compare pricing distribu
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)  
 - Dashboard PDF  
 - Dataset Files  
 - Background Assets  
