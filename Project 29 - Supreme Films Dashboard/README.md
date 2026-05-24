@@ -29,7 +29,6 @@ The dashboard helps users explore movie performance data, compare revenue trends
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)
 - Dashboard PDF
 - Dataset Files
 - Background Assets
