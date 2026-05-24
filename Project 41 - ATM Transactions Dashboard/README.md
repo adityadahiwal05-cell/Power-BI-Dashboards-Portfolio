@@ -45,10 +45,7 @@ An interactive financial analytics dashboard designed to monitor ATM transaction
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)
 - Dashboard PDF
-- Dataset Files
-- Background Assets
 
 ---
 
