@@ -46,10 +46,7 @@ An interactive sales analytics dashboard designed to monitor revenue performance
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)
 - Dashboard PDF
-- Dataset Files
-- Background Assets
 
 ---
 
