@@ -50,10 +50,7 @@ An interactive supply chain analytics dashboard designed to monitor inventory le
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)
 - Dashboard PDF
-- Dataset Files
-- Background Assets
 
 ---
 
