@@ -31,7 +31,6 @@ The dashboard helps businesses monitor financial KPIs, identify profitable areas
 ## 📂 Files Included
 - Power BI Dashboard File (.pbix)
 - Dashboard PDF
-- Dataset Files
 - Background Assets
 
 ---
