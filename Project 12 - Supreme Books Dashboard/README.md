@@ -29,7 +29,6 @@ The dashboard helps users and businesses gain meaningful insights into book perf
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)
 - Dashboard PDF
 - Dataset Files
 - Background Assets
