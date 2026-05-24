@@ -29,7 +29,6 @@ The dashboard helps users explore football statistics, compare team performances
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)
 - Dashboard PDF
 - Dataset Files
 - Background Assets
