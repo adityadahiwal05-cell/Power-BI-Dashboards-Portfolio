@@ -29,7 +29,6 @@ The dashboard helps users monitor pandemic data, understand outbreak trends, and
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)
 - Dashboard PDF
 - Background Assets
 
