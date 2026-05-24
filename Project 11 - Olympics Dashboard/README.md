@@ -29,7 +29,6 @@ The dashboard helps users explore Olympic statistics, compare country performanc
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)
 - Dashboard PDF
 - Dataset Files
 - Background Assets
