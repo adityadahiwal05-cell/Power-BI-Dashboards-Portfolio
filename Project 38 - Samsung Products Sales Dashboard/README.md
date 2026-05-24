@@ -1,7 +1,7 @@
 # 🤖 AI Generated Dashboard – Samsung Sales Dashboard
 
 ## 📌 Overview
-Created an AI-generated **Samsung Supply Chain & Logistics Dashboard** in Power BI to analyze supply chain operations, shipment performance, inventory management, supplier efficiency, and overall logistics insights through interactive and modern visualizations.
+Created an AI-generated **Samsung Products Sales Dashboard** in Power BI to analyze supply chain operations, shipment performance, inventory management, supplier efficiency, and overall logistics insights through interactive and modern visualizations.
 
 This dashboard was designed with the help of ChatGPT to transform raw supply chain and logistics data into meaningful business insights using advanced reporting techniques and smart dashboard storytelling.
 
