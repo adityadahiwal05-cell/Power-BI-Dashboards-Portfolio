@@ -47,10 +47,7 @@ An interactive luxury sales analytics dashboard designed to monitor revenue grow
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)
 - Dashboard PDF
-- Dataset Files
-- Background Assets
 
 ---
 
