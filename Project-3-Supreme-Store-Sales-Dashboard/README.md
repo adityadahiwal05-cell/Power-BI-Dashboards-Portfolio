@@ -29,7 +29,6 @@ The dashboard provides meaningful business insights that help understand sales g
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)
 - Dashboard PDF
 - Dataset Files
 - Background Assets
