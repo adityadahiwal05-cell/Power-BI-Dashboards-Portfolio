@@ -29,7 +29,6 @@ The dashboard helps users explore sales trends, identify high-performing regions
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)  
 - Dashboard PDF  
 - Dataset Files  
 - Background Assets  
