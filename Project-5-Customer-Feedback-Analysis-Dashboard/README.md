@@ -29,7 +29,6 @@ The dashboard helps businesses understand customer opinions, identify improvemen
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)
 - Dashboard PDF
 - Dataset Files
 - Background Assets
