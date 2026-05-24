@@ -51,5 +51,12 @@ This dashboard helps analyze pandemic trends, monitor recovery and vaccination p
 
 ---
 
+## ⚠️ Notice
+Due to the large dataset size (approximately 60 MB), the dataset files have not been uploaded to this repository.
+
+Only the dashboard PDF and background assets are included for project showcase and visualization purposes.
+
+---
+
 ## 👨‍💻 Author
 **Aditya Dahiwal**
