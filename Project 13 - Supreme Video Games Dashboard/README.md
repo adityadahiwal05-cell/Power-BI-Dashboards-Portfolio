@@ -29,7 +29,6 @@ The dashboard helps users explore gaming data, understand market trends, and gai
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)
 - Dashboard PDF
 - Dataset Files
 - Background Assets
