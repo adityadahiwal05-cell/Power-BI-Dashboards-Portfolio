@@ -29,7 +29,6 @@ The dashboard helps educational institutions monitor key academic metrics, track
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)
 - Dashboard PDF
 - Dataset Files
 - Background Assets
