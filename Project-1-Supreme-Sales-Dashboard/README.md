@@ -28,7 +28,6 @@ The dashboard helps businesses analyze performance metrics and make data-driven 
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)
 - Dashboard PDF
 - Dataset Files
 - Background Assets
