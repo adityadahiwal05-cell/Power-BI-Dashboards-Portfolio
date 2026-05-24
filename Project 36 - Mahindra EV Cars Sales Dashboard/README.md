@@ -16,52 +16,6 @@ The dashboard provides a detailed overview of the BE6 Pack 3 model using interac
 
 ---
 
-## 🚀 Dashboard Highlights
-- Total Sales & Revenue KPIs
-- Orders Performance Tracking
-- Sales by Year Analysis
-- Customer Type Distribution
-- State-wise Sales Insights
-- EV Sales Trend Visualization
-- Interactive Business Intelligence Reporting
-
----
-
-## 🛠 Tools & Skills Used
-- Power BI
-- DAX
-- Data Modeling
-- Data Visualization
-- Business Intelligence
-- Dashboard Design
-- EV Sales Analytics
-
----
-
-## 📂 Files Included
-- Dashboard PDF
-- Dataset Files
-- Background Assets
-
----
-
-## 🎯 Purpose
-The objective of this dashboard is to transform EV sales data into meaningful business insights using interactive analytics and reporting techniques.
-
-This dashboard helps analyze sales growth, customer segmentation, revenue performance, and regional EV adoption trends.
-
----
-
-## 📈 Features
-- Interactive Filters & Slicers
-- Dynamic KPI Cards
-- Sales & Revenue Analysis
-- Customer Insights
-- Geographic Sales Mapping
-- Visual Data Storytelling
-
----
-
 # 🟠 Mahindra BE6 FE3 Dashboard
 
 ## 📌 Overview
@@ -71,104 +25,12 @@ The dashboard provides deep insights into BE6 FE3 sales metrics using interactiv
 
 ---
 
-## 🚀 Dashboard Highlights
-- Total Sales & Orders KPIs
-- Revenue Performance Analysis
-- Sales by Year Tracking
-- Customer Type Insights
-- State-wise EV Sales Analysis
-- Sales Growth Monitoring
-- Interactive Visual Analytics
-
----
-
-## 🛠 Tools & Skills Used
-- Power BI
-- DAX
-- Data Modeling
-- Data Visualization
-- EV Analytics
-- Dashboard Design
-- Business Intelligence
-
----
-
-## 📂 Files Included
-- Dashboard PDF
-- Dataset Files
-- Background Assets
-
----
-
-## 🎯 Purpose
-The purpose of this dashboard is to convert raw EV sales data into meaningful insights for better understanding of sales trends, customer behavior, and regional performance.
-
-The dashboard supports data-driven analysis through interactive reporting and visualization techniques.
-
----
-
-## 📈 Features
-- Interactive Filters & Slicers
-- KPI Cards & Metrics
-- Revenue & Orders Analysis
-- Customer Segmentation
-- Geographic Sales Insights
-- Interactive Dashboard Storytelling
-
----
-
 # 🔵 Mahindra XEV 9e Dashboard
 
 ## 📌 Overview
 Created a modern **Mahindra XEV 9e Sales Dashboard** in Power BI to analyze EV sales performance, revenue trends, customer insights, and regional sales distribution.
 
 The dashboard enables users to monitor sales performance and identify business opportunities through dynamic visualizations.
-
----
-
-## 🚀 Dashboard Highlights
-- Total Sales & Revenue KPIs
-- Orders & Sales Tracking
-- Year-wise Sales Performance
-- Customer Type Distribution
-- State-wise Sales Mapping
-- EV Business Insights
-- Interactive Visual Reporting
-
----
-
-## 🛠 Tools & Skills Used
-- Power BI
-- DAX
-- Data Modeling
-- Data Visualization
-- Dashboard Development
-- EV Sales Analytics
-- Business Intelligence
-
----
-
-## 📂 Files Included
-- Dashboard PDF
-- Dataset Files
-- Background Assets
-
----
-
-## 🎯 Purpose
-The objective of this dashboard is to analyze Mahindra XEV 9e sales performance and provide meaningful business insights using advanced Power BI reporting techniques.
-
-This dashboard helps identify customer trends, sales growth patterns, and regional performance metrics.
-
----
-
-## 📈 Features
-- Interactive Filters & Slicers
-- Dynamic KPI Visualization
-- Revenue & Sales Analysis
-- Customer Insights Dashboard
-- Geographic Trend Analysis
-- Data Storytelling Design
 
 ---
 
