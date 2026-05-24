@@ -29,7 +29,6 @@ The dashboard helps users explore customer segmentation, identify spending trend
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)  
 - Dashboard PDF  
 - Dataset Files  
 - Background Assets  
