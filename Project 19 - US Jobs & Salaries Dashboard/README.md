@@ -29,7 +29,6 @@ The dashboard helps users explore job market trends, compare salary distribution
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)
 - Dashboard PDF
 - Dataset Files
 - Background Assets
