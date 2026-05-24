@@ -72,7 +72,7 @@ This dashboard helps monitor sales trends, analyze customer purchasing patterns,
 ---
 
 ## 🙏 Special Thanks
-Special thanks to **The Developer YouTube Channel** for inspiration, learning resources, and dashboard design guidance.
+Special thanks to **The Developer** Youtube Channel for inspiration, learning resources, and dashboard design guidance.
 
 🔗 YouTube Channel Link: https://www.youtube.com/@The-Developer-BI
 
