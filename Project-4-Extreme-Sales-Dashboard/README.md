@@ -28,7 +28,6 @@ The dashboard helps businesses monitor key metrics, identify growth opportunitie
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard File (.pbix)
 - Dashboard PDF
 - Dataset Files
 - Background Assets
