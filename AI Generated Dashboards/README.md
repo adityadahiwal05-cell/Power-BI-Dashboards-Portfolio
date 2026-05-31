@@ -69,5 +69,12 @@ These dashboards help analyze trends, automate reporting, monitor KPIs, and crea
 
 ---
 
+## 🙏 Special Thanks
+Special thanks to **The Developer** Youtube Channel for inspiration, learning resources, and dashboard design guidance.  
+
+🔗 YouTube Channel Link: www.youtube.com/@The-Developer-BI
+
+---
+
 ## 👨‍💻 Author
 **Aditya Dahiwal**
