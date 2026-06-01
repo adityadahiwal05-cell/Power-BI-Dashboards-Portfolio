@@ -1,4 +1,4 @@
-# 📊 Power BI Dashboard Portfolio
+# 📊 All Dashboards
 
 ## 📌 Overview
 
